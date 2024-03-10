@@ -1,0 +1,13 @@
+POST http://localhost:3333/users
+
+{
+  "name": "Felipe Soares",
+  "email" "felipe8297@gmail.com"
+}
+
+
+###
+
+GET htpp://localhost:3333/users
+
+```
