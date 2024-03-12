@@ -10,3 +10,6 @@ POST http://localhost:3333/users
 
 GET http://localhost:3333/users
 
+###
+
+DELETE http://localhost:3333/users/0d6df698-1324-4984-b363-d5ed2323645c
