@@ -1,14 +1,25 @@
 POST http://localhost:3333/users
 
 {
-  "name": "Diego3g",
-  "email": "diego3g@gmail.com"
+  "name": "Felipe Soares da Silva",
+  "email": "felipe3g@gmail.com"
 }
 
 
 ###
 
 GET http://localhost:3333/users
+
+
+###
+
+PUT http://localhost:3333/users/0a71b481-8c65-4277-89a7-8fe5aae3b2df
+
+{
+  "name": "Felipe Silva",
+  "email": "felipe8297@gmail.com" 
+  
+}
 
 ###
 
